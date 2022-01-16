@@ -18,6 +18,6 @@
     * Orchestratiom Using Kubernetes
 
 - 📫 How to reach me:
-    * EMAIL: kishorswaminathan@outlook.com  
+    * E-Mail: kishorswaminathan@outlook.com  
     
 
