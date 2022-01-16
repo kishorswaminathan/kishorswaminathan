@@ -19,5 +19,6 @@
 
 - 📫 How to reach me:
     * E-Mail: kishorswaminathan@outlook.com  
+    * LinkedIn: https://www.linkedin.com/in/kishorswaminathan
     
 
