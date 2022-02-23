@@ -15,7 +15,7 @@
 
 - 💞️ I’m looking to collaborate on:
     * Blockchain Associated Projects
-    * Orchestratiom Using Kubernetes
+    * Orchestration Using Kubernetes
 
 - 📫 How to reach me:
     * E-Mail: kishorswaminathan@outlook.com  
